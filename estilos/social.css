@@ -30,5 +30,4 @@ a:hover {
     color: rgb(44, 0, 0);
     font-size: 1.1em;
     transition-duration: 0.7s;
-    -o-transition-duration: 0.9s;
 }
